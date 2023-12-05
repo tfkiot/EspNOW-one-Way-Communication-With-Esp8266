@@ -57,7 +57,7 @@ Ensure the wiring is set up as per the diagram before uploading the code to your
 
 ## Watch the Tutorial
 
-[Link to Tutorial Video on YouTube]
+[[Link to Tutorial Video on YouTube-( https://youtu.be/WT7sOBMvoWg )]
 
 ## Connect with Us
 
